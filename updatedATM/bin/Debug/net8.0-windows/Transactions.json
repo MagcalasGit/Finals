@@ -1,0 +1,6 @@
+{"Type":"Withdraw in Savings","Time":"2024-05-02T20:05:00","Amount":120.0,"Balance":99880.0}
+{"Type":"Deposit in Savings","Time":"2024-05-02T20:05:00","Amount":120.0,"Balance":100000.0}
+{"Type":"Deposit in Savings","Time":"2024-05-02T20:07:00","Amount":10000.0,"Balance":110000.0}
+{"Type":"Withdraw in Savings","Time":"2024-05-02T20:07:00","Amount":90000.0,"Balance":20000.0}
+{"Type":"Deposit in Savings","Time":"2024-05-03T08:32:00","Amount":10000.0,"Balance":30000.0}
+{"Type":"Withdraw in Cheque","Time":"2024-05-03T08:33:00","Amount":120.0,"Balance":99880.0}
